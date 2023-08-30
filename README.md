@@ -1,4 +1,4 @@
-This is a [Plasmo Framework](https://docs.plasmo.com/) chrome extension project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+This is a [Plasmo Framework](https://docs.plasmo.com/) chrome extension project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo) which shows shows the user's country and city by processing their ip address.
 
 You can check the video demonstration on Youtube ⬇️
 https://youtu.be/eQCQDA9nhGE
