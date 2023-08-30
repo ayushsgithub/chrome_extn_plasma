@@ -1,8 +1,29 @@
-This is a [Plasmo extension](https://docs.plasmo.com/) project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+This is a [Plasmo Framework](https://docs.plasmo.com/) chrome extension project bootstrapped with [`plasmo init`](https://www.npmjs.com/package/plasmo).
+
+You can check the video demonstration on Youtube ⬇️
+https://youtu.be/eQCQDA9nhGE
 
 ## Getting Started
 
-First, run the development server:
+Fork this repo
+
+Clone it to your local environment ⬇️
+
+https://github.com/ayushsgithub/chrome_extn_plasma.git
+
+Open it in your editor of choice
+
+```bash
+cd chrome-extension
+```
+
+Get token from ipinfo.io
+
+Make sure to add it in your `.env` file
+
+And if you want to contribute in this project, you're welcome and it will be so awesome if you show your support for this project.
+
+To run the development server ⬇️
 
 ```bash
 pnpm dev
